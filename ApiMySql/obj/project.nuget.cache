@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zy97nyWT/zhXdRWFpnP7GXeD1L7BRbFpT71ZmT7ba+JQPD8jRldTQwQ1asBIHjIpXjRY4PC8jjfPpbsbHZwSrg==",
+  "dgSpecHash": "HBxWA2xpG23qYw6n3KUYcT0WLp9ITRt3GQ39rwDQc0iR3tQAlqwq7UaJ4xpajOhejINl2QVi0WXI0mRS6jiq8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj",
+  "projectFilePath": "D:\\Users\\molme\\source\\repos\\GitHub\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\molme\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\molme\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

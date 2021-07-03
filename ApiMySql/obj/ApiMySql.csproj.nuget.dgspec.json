@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj": {}
+    "D:\\Users\\molme\\source\\repos\\GitHub\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj": {
+    "D:\\Users\\molme\\source\\repos\\GitHub\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj",
+        "projectUniqueName": "D:\\Users\\molme\\source\\repos\\GitHub\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj",
         "projectName": "ApiMySql",
-        "projectPath": "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj",
+        "projectPath": "D:\\Users\\molme\\source\\repos\\GitHub\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj",
         "packagesPath": "C:\\Users\\molme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\obj\\",
+        "outputPath": "D:\\Users\\molme\\source\\repos\\GitHub\\API-EF-MYSQL\\ApiMySql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\molme\\AppData\\Roaming\\NuGet\\NuGet.Config",
