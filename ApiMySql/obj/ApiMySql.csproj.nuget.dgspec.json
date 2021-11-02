@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj": {}
+    "D:\\Users\\molme\\source\\repos\\Github\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj": {}
   },
   "projects": {
-    "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj": {
+    "D:\\Users\\molme\\source\\repos\\Github\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj",
+        "projectUniqueName": "D:\\Users\\molme\\source\\repos\\Github\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj",
         "projectName": "ApiMySql",
-        "projectPath": "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\ApiMySql.csproj",
+        "projectPath": "D:\\Users\\molme\\source\\repos\\Github\\API-EF-MYSQL\\ApiMySql\\ApiMySql.csproj",
         "packagesPath": "C:\\Users\\molme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\molme\\source\\repos\\ApiMySql\\ApiMySql\\obj\\",
+        "outputPath": "D:\\Users\\molme\\source\\repos\\Github\\API-EF-MYSQL\\ApiMySql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\molme\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.7, )"
@@ -63,6 +67,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
@@ -91,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
